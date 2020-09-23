@@ -1,5 +1,5 @@
 ### Hi there here is something about me 👋
-<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <a href="https://www.linkedin.com/in/knowmetamal/"><img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <a href="https://www.linkedin.com/in/knowmetamal/" target="_blank"><img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 
 
