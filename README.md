@@ -8,6 +8,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... vue.js / react.js
 - 💬 Ask me about ... anything ; i love to talk with people
 - 📫 How to reach me: ... tamal.sen@hotmail.com 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
+- ⚡ Fun fact: ... food lover | start to do running
 -->
