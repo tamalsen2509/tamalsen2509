@@ -7,10 +7,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Building self projects 
-- 🌱 I’m currently learning ... Javascript and exploring possibilities with Node.js
+- 🌱 I’m currently learning ... Javascript and exploring possibilities with Node.js future Typescript
 - 👯 I’m looking to collaborate on ...node.js
-- 🤔 I’m looking for help with ... vue.js / react.js
+- 🤔 I’m looking for help with ... vue.js / react.js / learning a new language 
 - 💬 Ask me about ... anything ; i love to talk with people
 - 📫 How to reach me: ... tamal.sen@hotmail.com 
-- ⚡ Fun fact: ... food lover | start to do running
--->
+- ⚡ Fun fact: ... food lover |a loud laugher 
