@@ -4,7 +4,7 @@
 
 
 
-Here are some ideas to get you started:
+A quick introduction about myself ---
 
 - 🔭 I’m currently working on ... Building self projects 
 - 🌱 I’m currently learning ... Javascript and exploring possibilities with Node.js future Typescript
