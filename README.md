@@ -1,4 +1,4 @@
-### Hi there here is something about me 👋
+### Hi there here is some interesting facts about me 👋
 <a href="https://www.linkedin.com/in/knowmetamal/" target="_blank"><img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> 
 
 
@@ -7,12 +7,13 @@
 A quick introduction about myself ---
 
 - 🔭 I’m currently working on ... Building self projects 
-- 🌱 I’m currently learning ... Javascript and exploring possibilities with Node.js future Typescript
+- 🌱 I’m currently learning ... Javascript and exploring possibilities with Node.js
 - 👯 I’m looking to collaborate on ...node.js
 - 🤔 I’m looking for help with ... vue.js / react.js / learning a new language 
 - 💬 Ask me about ... anything ; i love to talk with people
 - 📫 How to reach me: ... tamal.sen@hotmail.com 
 - ⚡ Fun fact: ... food lover |a loud laugher 
 
+ Goals for 2020 ... Learn typescript & develop a strong foundation on Node.js
+-
 
-- Language and tools i use ... ![alt text](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)
