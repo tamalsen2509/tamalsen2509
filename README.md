@@ -13,4 +13,6 @@ A quick introduction about myself ---
 - 💬 Ask me about ... anything ; i love to talk with people
 - 📫 How to reach me: ... tamal.sen@hotmail.com 
 - ⚡ Fun fact: ... food lover |a loud laugher 
-- Language and tools i use ... 
+
+
+- Language and tools i use ... ![alt text](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)
