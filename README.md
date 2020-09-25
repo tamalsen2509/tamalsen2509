@@ -1,7 +1,6 @@
 ### Hi there here is some interesting facts about me 👋
 
 ### Connect with me
-<br/>
 <a href="https://www.linkedin.com/in/knowmetamal/" target="_blank"><img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> 
 
 
