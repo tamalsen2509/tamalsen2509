@@ -11,7 +11,7 @@ A quick introduction about myself ---
 - 🔭 I’m currently working on = Building self projects 
 - 🌱 I’m currently learning = Javascript and exploring possibilities with Node.js
 - 👯 I’m looking to collaborate on = Node.js
-- 🤔 I’m looking for help with = Vue.js / React.js / learning a new language 
+- 🤔 I’m looking for help with = Angular / learning a new language 
 - 💬 Ask me about = Anything , I love to talk with people
 - 📫 How to reach me = tamal.sen@hotmail.com 
 - ⚡ Fun fact= Food lover |A loud laugher 
