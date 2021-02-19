@@ -9,14 +9,14 @@
 A quick introduction about myself ---
 
 - 🔭 I’m currently working on = Building self projects 
-- 🌱 I’m currently learning = Javascript and exploring possibilities with Node.js
+- 🌱 I’m currently exploring opportunities on Javascript/Node.js
 - 👯 I’m looking to collaborate on = Node.js
 - 🤔 I’m looking for help with = Angular / learning a new language 
 - 💬 Ask me about = Anything , I love to talk with people
 - 📫 How to reach me = tamal.sen@hotmail.com 
 - ⚡ Fun fact= Food lover |A loud laugher 
 
-###  Goals for 2020 =  Learn Typescript & develop a strong foundation on Node.js | Contribute more to open source projects 
+###  Goals for 2021 =  Learn Typescript & develop a strong foundation on Node.js | Contribute more to open source projects | Participate in competitive coding  
 <br/>
 
 ### Language & tools that I use:
