@@ -8,15 +8,15 @@
 
 A quick introduction about myself ---
 
-- 🔭 I’m currently working on = Building self projects 
-- 🌱 I’m currently exploring opportunities on Javascript/Node.js
-- 👯 I’m looking to collaborate on = Node.js
-- 🤔 I’m looking for help with = Angular / learning a new language 
-- 💬 Ask me about = Anything , I love to talk with people
+- 🔭 I’m currently working on = As Software Engineer
+- 🌱 I’m currently exploring Competitive Programing and C++
+-  👯 I’m looking to collaborate on = Angular and Node.js
+- 🤔 I’m looking for help on Competitive Programing 
+- 💬 Ask me about = Anything , I love to talk with people , sharing Ideas. 
 - 📫 How to reach me = tamal.sen@hotmail.com 
-- ⚡ Fun fact= Food lover |A loud laugher 
+- ⚡ Fun fact= Food lover |A loud laugher| Love Sports
 
-###  Goals for 2021 =  Learn Typescript & develop a strong foundation on Node.js | Contribute more to open source projects | Participate in competitive coding  
+###  Goals for 2021 = Participate in competitive coding contests | Contribute to more open source projects    
 <br/>
 
 ### Language & tools that I use:
