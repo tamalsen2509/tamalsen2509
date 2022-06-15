@@ -16,8 +16,6 @@ A quick introduction about myself ---
 - ⚡ Fun fact= Food lover |A loud laugher| Love Sports
 
 ###  Goals for 2022 = Learn BlockChain Development and share with the world    
-<br/>
 
-### Language & tools that I use:
 
 
