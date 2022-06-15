@@ -15,7 +15,7 @@ A quick introduction about myself ---
 - 📫 How to reach me = tamal.sen@outlook.com 
 - ⚡ Fun fact= Food lover |A loud laugher| Love Sports
 
-###  Goals for 2021 = Learn Java and Solve 200 algorithmic challenge questions | Contribute in open source projects    
+###  Goals for 2022 = Learn BlockChain Development and share with the world    
 <br/>
 
 ### Language & tools that I use:
