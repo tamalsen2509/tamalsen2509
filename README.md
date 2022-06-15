@@ -12,7 +12,7 @@ A quick introduction about myself ---
 - 🌱 I’m currently exploring Competitive Programing
 -  👯 I’m looking to collaborate on = Angular and Node.js
 - 💬 Ask me about = Anything , I love to talk with people , sharing Ideas. 
-- 📫 How to reach me = tamal.sen@hotmail.com 
+- 📫 How to reach me = tamal.sen@outlook.com 
 - ⚡ Fun fact= Food lover |A loud laugher| Love Sports
 
 ###  Goals for 2021 = Learn Java and Solve 200 algorithmic challenge questions | Contribute in open source projects    
