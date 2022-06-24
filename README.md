@@ -8,12 +8,13 @@
 
 A quick introduction about myself ---
 
-- 🔭 I’m currently working = As Jr Full Stack Software Engineer
-- 🌱 I’m currently exploring Competitive Programing
+- 🔭 I’m currently working = As a Jr. Software Engineer
+- 🌱 Currently exploring Blockchian Technology
 -  👯 I’m looking to collaborate on = Angular and Node.js
 - 💬 Ask me about = Anything , I love to talk with people , sharing Ideas. 
 - 📫 How to reach me = tamal.sen@outlook.com 
 - ⚡ Fun fact= Food lover |A loud laugher| Love Sports
+Tech Stack = Angular , Node.Js , MYSql
 
 ###  Goals for 2022 = Learn BlockChain Development and share with the world    
 
